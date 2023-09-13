@@ -1,0 +1,540 @@
+/* Section Navbar styling */
+.bt1{
+    background-color: #a6ce39;
+}
+
+.bt2{
+    background-color: #3ece7e;
+}
+
+.navul{
+    margin-left: 37em;
+}
+
+.img1{
+    background-image: url('https://images.squarespace-cdn.com/content/v1/5f5b8a572b260051a8eadacb/1623776816241-QFS8KRMVT31VI5N88R8A/Itaewon-main.jpeg');
+    background-repeat: no-repeat;
+
+    max-width: 100%;
+    height: auto;
+    
+}
+
+.p1{
+    color:#adb5bd;
+}
+.bt3{
+    color: #adb5bd;
+}
+
+.li1{
+    color: #adb5bd;
+}
+
+
+/* Section 2 styling */
+.Sec2{
+    margin-top: 7em;
+}
+
+/* Section 3 Styling */
+
+.bor{
+    height:53em;
+}
+
+.input1{
+    border-bottom-color:#adb5bd ;
+    width: 350px;
+}
+
+.bt4{
+    background-color: #a6ce39;
+    width: 13em;
+    height: 45px;
+}
+
+/* section 4 styling */
+
+.sec4{
+    background-color: #fafafa;
+    height: 40em;
+}
+
+.h4{
+    margin-top: 2em;
+
+}
+
+.b1{
+    height: 26em;
+}
+
+.h2{
+    font-weight: 800;
+}
+
+/* Section 5  cities styling */
+
+.h1{
+    color: #f1f1f4;
+    font-weight: 900;
+    font-size: 9em;
+}
+
+/* Section 6 cuisine styling */
+
+.cuisine{
+    background-color: #fafafa;
+}
+
+/* Section 8 Restaurant Styling */
+
+.para{
+    color: #a6ce39;
+}
+
+.open{
+    color: #3ece7e;
+    text-decoration: none;
+}
+
+.icon{
+    margin-left:48px;
+}
+
+.icon1{
+    color: #a6ce39;
+}
+
+.img{
+    width: 40px;
+}
+
+.icon2{
+    margin-left: 30px;
+}
+
+.h9{
+    color: #f1f1f4;
+    font-weight: 900;
+    font-size: 9em;
+}
+
+/* Section 9 Styling */
+
+.app{
+    margin-left:3em;
+    margin-top: 5em;
+}
+
+.bt6{
+    width: 12em;
+    border-radius: 10px;
+    height: 62px;
+}
+
+.bt7{
+    width: 12em;
+    border-radius: 10px;
+    height: 62px;
+}
+
+.para2{
+    font-size: 12px;
+    margin-bottom: 2px;
+}
+.main{
+    display: flex;
+}
+
+.h10{
+    color: #f1f1f4;
+    font-weight: 900;
+    font-size: 9em;
+}
+
+/* Section 10 Blog Styling */
+
+.h5{
+    font-weight: 800;
+}
+
+.Latest{
+    color: #a71c20;
+}
+
+
+/* Section 11 Footer Styling */
+
+.footer{
+    border-top: 5px solid #a6ce39;
+    height: 30em;
+    background: url(https://www.foodies.pk/wp-content/uploads/2019/10/footer.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+}
+
+
+.Foodies1{
+    color: #a6ce39;
+    font-size: 20px;
+    font-weight: 600;
+    list-style: none;
+}
+
+.li2{
+    list-style: none;
+    font-size: 14px;
+}
+
+.input {
+    font-size: 120%;
+    color: #adb5bd;
+    border: 1px solid black;
+    padding: 10px 4px 10px 15px;
+    border-radius: 5px;
+    background-repeat: no-repeat;
+    background-position: 8px 9px;
+    display: block;
+    margin-bottom: 10px;
+} 
+
+.button{
+    background-color: #a6ce39;
+    color: white;
+    border-color:#282828;
+    margin-top: 10px;
+}
+
+.bt8{
+     height: 60px; 
+     border-radius: 8px;
+     width: 12em;
+}
+
+.bt9{
+    height: 60px;
+    border-radius: 8px;
+    width: 12em;
+}
+
+/* Last Footer styling */
+
+.fot{
+    height: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 3629px){
+  /* Footer Styling */
+  .main1{
+    display: flex;
+    justify-content: space-around;
+}   
+}
+
+@media only screen and (max-width: 1629px){
+    /* Footer Styling */
+    .main1{
+        display: flex;
+        justify-content: space-around;
+    }
+}
+
+@media only screen and (max-width: 1399px) {
+    .sec4{
+        height: 60em;
+    }   
+
+    .street{
+         margin-left: -12em;
+    }
+
+    /* footer styling */
+    .main1{
+        display: flex;
+        justify-content: space-around;
+      }
+     
+    
+}
+
+@media only screen and (max-width: 1199px){
+    .street{
+        margin-left: -10em;
+    }
+
+    .app{
+        margin-left: 1px;
+        font-size: 10px;
+        margin-bottom: -2px;
+    }
+    
+    .bt6{
+        width: 12em;
+        border-radius: 10px;
+        height: 72px;
+    }
+    
+    .bt7{
+        width: 12em;
+        border-radius: 10px;
+        height: 72px;
+    }
+    
+    .para2{
+        font-size: 12px;
+        margin-bottom: 2px;
+    }
+
+    .main{
+        display: block;
+    }
+
+    .h10{
+        font-size: 99px;
+    }
+   
+}
+    
+
+
+@media only screen and (max-width: 991px) {
+     .sec4{
+        height:78em ;
+     }
+
+     .street{
+        margin-left: 0px;
+        margin-top: 18px;
+     }
+
+     .pizza{
+        margin-top: 18px;
+     }
+
+     .h10{
+        font-size: 90px;
+     }
+
+     /* Footer Styling */
+
+    .main1{
+        display: inline-block;
+    }   
+
+    /* Footer end stying */
+
+    .footer{
+        height: 60em;
+    }
+     
+}
+
+
+@media only screen and (max-width: 935px) {
+    /* footer styling */
+
+    .main1{
+        display: inline;
+    }
+}
+
+@media only screen and (max-width: 750px) {
+    .sec4{
+       height:85em ;
+    }
+
+    .rest{
+        margin-left:110px;
+    }
+
+    .h1{
+        font-size: 84px;
+    }
+
+    .h10{
+        font-size: 80px;
+    }
+
+    /* Latest Blog */
+    .rest1{
+        margin-left: 120px;
+    }
+
+    .h9{
+        font-size: 84px;
+    }
+
+}
+
+@media only screen and (max-width: 480px) {
+  
+
+    .h1{
+        font-size: 4em;
+    }
+
+    .rest{
+        margin-left: 80px;
+    }
+
+    /* Latest Blog */
+
+    .rest1{
+        margin-left: 70px;
+    }
+
+    .h9{
+        font-size: 60px;
+    }
+}
+
+@media only screen and (max-width: 420px) {
+    .sec4{
+       height:90em ;    
+    }
+
+    .h1{
+        font-size: 4em;
+    }
+
+    .rest{
+        margin-left: 40px;
+    }
+
+    /* Latest Blog */
+
+    .rest1{
+        margin-left: 40px;
+    }
+    .h9{
+        font-size: 48px;
+    }
+}
+
+
+@media only screen and (max-width : 450px){
+    .img1{
+        background-image: url('https://img.freepik.com/premium-photo/burger-with-coke-fries-isolated-wooden-table-background-delicious-cheeseburger-board_667286-354.jpg');
+        background-repeat: no-repeat;
+        height: 40em;
+        max-width: 100%;
+    }
+
+    /* Section 3 Styliing through media */
+    .input1{
+        width: 320px;
+    }
+    .bt4{
+        background-color: #a6ce39;
+        width: 13em;
+        height: 45px;
+        margin-bottom: 30px;
+    }
+
+    /* Section 4 Foodies Guide styling  */
+
+    .foodiesguideimg{
+        width: 22em;
+    }
+    .rest{
+        margin-left: 30px;
+    }
+   /* Section Latest Blog styling */
+   .rest1{
+    margin-left: 50px;
+   }
+
+   /* Section Footer styling */
+   .bt8{
+    height: 60px; 
+    border-radius: 8px;
+    width: 167px;
+}
+
+.bt9{
+   height: 60px;
+   border-radius: 8px;
+   width: 9em;
+}
+
+}
+
+@media only screen and (max-width: 400px){
+   /* Section Latest Blog styling */
+   .rest1{
+    margin-left: 20px;
+   }
+} 
+
+@media only screen and (max-width: 380px){
+    .foodiesguideimg{
+        width:20em;
+    }
+    .rest{
+        margin-left: 20px;
+    }
+
+    /* Section Latest Blog styling */
+   .rest1{
+    margin-left: 15px;
+   }
+}
+    
+
+    
+
+
+@media only screen and (max-width: 325px) {
+    .sec4{
+       height:94em ;
+    }
+
+    .rest{
+        margin-left: 10px;
+    }
+
+    /* Latest Blog */
+    .rest1{
+        margin-left: 10px;
+    }
+
+    .h9{
+        font-size: 28px;
+    }
+}
